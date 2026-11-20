@@ -1,3 +1,6 @@
+def subtract(a, b):
+    return a - b
+    
 print("SIMPLE CALCULATOR")
 print("1. Addition")
 print("2. Subtraction")
